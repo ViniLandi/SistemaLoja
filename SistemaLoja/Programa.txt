@@ -1,0 +1,89 @@
+- DEIXAR PROGRAMA TOTALMENTE CONDICIONADO AO TAMANHO DA TELA DO USUARIO
+- UNDECORATE
+- DEFINIR UMA IMAGEM DE FUNDO
+
+Digitar um produto e ja ir filtrando uma tabela e mostrando o produto se este estiver cadastrado
+- Imagem
+
+2
+criar departamentos predefinidos - se usuario for admin ele podera criar novos departamentos
+- Tecnologia
+- Vestuario
+- Automoveis
+- Instrumental
+- Alimentação
+
+- Botoes animados
+
+3 
+criar produtos predefinidos - se usuario for admin ele podera criar novos produtos
+- Tecnologia
+	- Arduino
+	- Caracteristicas Básicas
+	-	Imagem
+	- Nome Abreviado
+	-	Preço
+	- Condição de pagamento
+	- Caracteristicas Completas
+	-	Nome completo
+	-	codigo de produto interno
+	-	Botao de comprar
+	-	Veja também(mostrar os outros produtos deste departamento)
+	- Descrição do produto
+- Raspberry Pi
+- Caixa de som
+- iPhone X
+
+- Vestuario
+- Camisa
+- Calca
+- Bermuda
+- Meia
+
+- Automoveis
+- Polo
+- Palio
+- Sandero
+- i30
+
+- Instrumental
+- Violao
+- Guitarra
+- Bateria
+- Baixo
+
+- Alimentacao
+- Salgadinho
+- Sanduiche
+- Fruta
+- Carne
+
+- Departamento extra "Somente pelo admin"
+
+- Botoes animados
+4 
+alterar produtos predefinidos - se usuario for admin ele podera alterar novos produtos
+- Botoes animados
+
+5
+excluir produtos predefinidos - se usuario for admin ele podera excluir novos produtos
+- Botoes animados
+
+6
+deixar a criacao de usuario livre, sem restricao de acesso.
+- Botoes animados
+
+7
+criar tela de login
+- borda colorida
+- tela de fundo com o logo da loja
+- lembrar de usuario ja cadastrado
+- botoes animados
+
+-* Depois da tela de login, em um novo JFrame mostrar as promocoes cadastradas.
+8
+Se o usuario estiver logado, este pode alterar seu dados. o admin pode alterar todos os dados.
+
+9
+Criar um carrinho de compra que leva em conta o que o usuario selecionou.
+- Gerar nota fiscal da compra e dar opcao de imprimir
